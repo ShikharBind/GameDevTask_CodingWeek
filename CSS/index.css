@@ -1,5 +1,6 @@
 body {
     background-color: rgb(212, 212, 212);
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 #icon {
@@ -24,12 +25,24 @@ nav span.Navelements {
     
 }
 
+nav span.car {
+    width: 7%;
+    
+    
+}
+
+nav span.home {
+    width: 9%;
+    
+    
+}
+
 nav div.search {
     width: 20%;
     float: right;
     /* text-align: center; */
     /* font-size: 25px; */
-    margin-top: 26px;
+    margin-top: 22px;
     margin-left: 5%;
 }
 
@@ -38,6 +51,20 @@ input[type=text] {
     width: 200px;
     padding: 5px;
     font-size: 20px;
+    border-radius: 5px;
+    display: block;
+    float: left;
+    margin-top:3.5px ;
+}
+
+#search {
+    height: 42px;
+    width: 42px;
+    float: left;
+    display: block;
+    margin-top: 0px;
+    padding: 0px;
+    border-width: 0px;
 }
 
 div.frames {
@@ -68,11 +95,14 @@ div.paragraphs h3 {
     margin-top: 20px;
     margin-bottom: 30px;
     padding-bottom: 0;
+    font-family: FZShuTi;
+    
 }
 div.paragraphs span{
     font-size: 30px;
     margin-top: 0px;
     padding-top: 0px;
+    font-family: Biome, 'Eras Medium ITC';
     
     /* margin-right: 5px; */
 }
@@ -104,6 +134,7 @@ div.animalframe p{
 div.animalframe h1 {
     font-size: 70px;
     text-align: center;
+    font-family: 'Copperplate Gothic Bold';
 }
 
 div.imageholder {
@@ -119,6 +150,7 @@ div.imageholder img{
 
 div.imageholder h3{
     font-size: 40px;
+    font-family: 'Berlin Sans FB Demi';
 }
 
 div.imageholder p{
