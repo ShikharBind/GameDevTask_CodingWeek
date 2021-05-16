@@ -1,0 +1,159 @@
+body {
+    background-color: rgb(212, 212, 212);
+}
+
+#icon {
+    
+    width: 10%;
+    margin: 10px;
+}
+
+nav {
+    background-color: rgb(43, 42, 42);
+    width: 100%;
+}
+
+nav span.Navelements {
+    width: 10%;
+    float: right;
+    color: rgb(223, 199, 199);
+    font-size: 30px;
+    text-align: center;
+    margin-top: 28px;
+    
+    
+}
+
+nav div.search {
+    width: 20%;
+    float: right;
+    /* text-align: center; */
+    /* font-size: 25px; */
+    margin-top: 26px;
+    margin-left: 5%;
+}
+
+input[type=text] {
+    height: 20px;
+    width: 200px;
+    padding: 5px;
+    font-size: 20px;
+}
+
+div.frames {
+    width: 99.8%;
+    clear: left;
+    margin-right: 0.2%;
+}
+
+
+div.frames img#logo{
+    width: 100%;
+    border: 2px solid black;
+    margin-top: 10px;
+}
+
+
+div.paragraphs {
+    width: 30%;
+    /* background-color: blue; */
+    float: left;
+    margin: 1%;
+    padding-left: 1%;
+}
+
+div.paragraphs h3 {
+    font-size: 50px;
+    height: 50px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    padding-bottom: 0;
+}
+div.paragraphs span{
+    font-size: 30px;
+    margin-top: 0px;
+    padding-top: 0px;
+    
+    /* margin-right: 5px; */
+}
+
+div.paragraphs h4 {
+    font-size: 25px;
+    margin: 0px 0px 10px 0px;
+    padding: 0px;
+    
+}
+
+div.paragraphs p {
+    font-size: 20px;
+    margin: 0px;
+    padding: 0px;
+}
+
+div.animalframe {
+    border:black ;
+    border-style: solid;
+    border-width: 4px;
+}
+
+div.animalframe p{
+
+    color: rgb(212, 212, 212);
+}
+
+div.animalframe h1 {
+    font-size: 70px;
+    text-align: center;
+}
+
+div.imageholder {
+    width: 21%;
+    margin-left: 2%;
+    margin-right: 2%;
+    float: left;
+}
+
+div.imageholder img{
+    width: 100%;
+}
+
+div.imageholder h3{
+    font-size: 40px;
+}
+
+div.imageholder p{
+    font-size: 25px;
+    color: black;
+}
+
+div.frame2 {
+    width: 50%;
+    float: left;
+}
+
+div.frame2 h2 {
+    font-size: 30px;
+    margin-left: 10px;
+}
+
+div.frame2 input[type=button] {
+    width: 150px;
+    height: 40px;
+    background-color: rgb(43, 42, 42);
+    color: rgb(223, 199, 199);
+    margin: 0px 20px ;
+    border-radius: 10px;
+    font-size: 20px;
+
+}
+
+div.social img{
+    width: 40px;
+    height: 40px;
+    margin: 20px;
+}
+
+span a {
+    text-decoration: none;
+    color: rgb(223, 199, 199);
+}

@@ -1,0 +1,42 @@
+div.sign {
+    margin-top: 100px;
+
+    
+}
+
+div.sign input {
+    width : 500px;
+    height : 100 px;
+    font-size: 35px;
+    border-radius: 10px;
+    padding: 10px;
+    display: block;
+    margin: 20px auto;
+    
+}
+
+div.sign textarea {
+    width : 500px;
+    /* height : 700 px; */
+    font-size: 20px;
+    border-radius: 10px;
+    padding: 10px;
+    display: block;
+    margin: 20px auto;
+    
+}
+
+div.sign a {
+    width : 300px;
+    height : 100 px;
+    font-size: 35px;
+    border-radius: 10px;
+    padding: 10px;
+    display: block;
+    text-decoration: none;
+    border: 2px solid black;
+    text-align: center;
+    background-color: rgb(43, 42, 42);
+    color: rgb(223, 199, 199);
+    margin: 20px auto;
+}
